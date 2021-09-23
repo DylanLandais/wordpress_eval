@@ -20,16 +20,16 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'npu0aq16u6nr8us5' );
+define( 'DB_NAME', 'eval_wordpress' );
 
 /** MySQL database username */
-define( 'DB_USER', 'tqr11oq6kts325gy' );
+define( 'DB_USER', 'fav9pbo6jjiea98n' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'gtlqz7kjvw84b2zm' );
+define( 'DB_PASSWORD', 't5ns967mg3n4jyzk' );
 
 /** MySQL hostname */
-define( 'DB_HOST', '127.0.0.1' );
+define( 'DB_HOST', 'eporqep6b4b8ql12.chr7pe7iynqr.eu-west-1.rds.amazonaws.com	' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
@@ -48,14 +48,14 @@ define( 'DB_COLLATE', '' );
  *
  * @since 2.6.0
  */
-define( 'AUTH_KEY',         ']t6_cc~ce_AjeV$6Gop:,i6o@%f$O4_NxJ5>D[,nC(6^}?U`;AU|/}{u>_(yFaAv' );
-define( 'SECURE_AUTH_KEY',  'kHUwz1Zcb|(i Y#oe;rzc:=fWm$l+@4%DZiI]~|ugL]wqXt9-X,&oE/,R4HKbVcb' );
-define( 'LOGGED_IN_KEY',    'g,ma}uJYy6`QC&f~d`vy7pTy[S{/$Y,5~>L&H]eV%Lxc~|JSO2VBVOkgX#ocyq=7' );
-define( 'NONCE_KEY',        'VMEn9,9P} e6>Qzs~C?],l~Uv61OYl?S,idK:IU)^t=:!>/[}!|H=N<b-b#v3e!)' );
-define( 'AUTH_SALT',        'RH0%{ccTZExn50Qdc&P!&%L*taYG[M`AV4Tcg@e~eDX[]bhy_5!x[ST))*Rv,jCg' );
-define( 'SECURE_AUTH_SALT', 'T:y/L_E/V:=rLrJfETOjL^wi+Q_,O~8DU*a|hhlr7/kkQS,(n.jQv9$LElRW/5qI' );
-define( 'LOGGED_IN_SALT',   'Sui:hKhW:tkg`s,m[M8WX/GKq4p-M~&!_(^5G&z/7kadM:f=y14b$(VhW#kyZ@+R' );
-define( 'NONCE_SALT',       'EJJN~)hWjKcK7zy)%A[x?h{^2,oP]:$>;9m3=@m7|;{RyWE8OS;3VE1gp^<_(sr]' );
+define( 'AUTH_KEY',         'f31e456f887edf9bb42485c402f2d93545d8377cf7bcaa8c2d3babc18eb39db8' );
+define( 'SECURE_AUTH_KEY',  '61c1f1acac5d73cbabeb3415be7950e3f2989f8b242e71f619b7aa22cec9b8e4' );
+define( 'LOGGED_IN_KEY',    'a02e40951a15c623993c5b59d860616c6270377ed9629c23816bfd416c37015f' );
+define( 'NONCE_KEY',        'd81ce8e44aa72997ec4d73a0ed9520b42bb64ac33673411691415c08720880a4' );
+define( 'AUTH_SALT',        '18e2c49b5fdd1073f143b6923101507345ffb471034af77da8e77342aacec145' );
+define( 'SECURE_AUTH_SALT', '7f9cc57ae5d8b710c612f58d3c8aec3ed19ec64baab7875f0825c4d489b83eab' );
+define( 'LOGGED_IN_SALT',   '42b67f540193243814480ef78e4c12f7526d6e19cba49a1ef44d45fa5520d44f' );
+define( 'NONCE_SALT',       'd7e129b08f305f7c4fc19508ce3077710a79def66bb9d6d08bf2c52e3de060c3' );
 
 /**#@-*/
 
