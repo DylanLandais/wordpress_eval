@@ -1,0 +1,9 @@
+/*
+Theme Name:     L\'Agence
+Template:       responsive
+
+This is the child theme for Responsive theme, generated with Generate Child Theme plugin by catchthemes.
+
+Right to Left text support.
+*/
+@import url("../responsive/rtl.css");
