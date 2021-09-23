@@ -23,10 +23,10 @@
 define( 'DB_NAME', 'eval_wordpress' );
 
 /** MySQL database username */
-define( 'DB_USER', 'tqr11oq6kts325gy' );
+define( 'DB_USER', 'admin' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'gtlqz7kjvw84b2zm' );
+define( 'DB_PASSWORD', 'JBWnY#ZQa8KwTdZAUD' );
 
 /** MySQL hostname */
 define( 'DB_HOST', '127.0.0.1' );
